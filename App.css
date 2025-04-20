@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.container {
+  width: 50%;
+  margin: 0 auto;
+}
+
+input {
+  padding: 8px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 8px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:disabled {
+  background-color: #ccc;
+}
+
+h3 {
+  margin-top: 20px;
+}
